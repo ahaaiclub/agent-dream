@@ -11,6 +11,10 @@ Agent Dream gives your agent a nightly dream cycle: it reviews what happened, or
 ## 30-Second Install
 
 ```bash
+# If you don't have clawhub CLI yet
+npm install -g clawhub
+
+# Install and setup
 clawhub install agent-dream
 node skills/agent-dream/scripts/setup.js   # auto-detects your workspace
 ```
