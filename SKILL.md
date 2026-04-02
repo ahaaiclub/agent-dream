@@ -1,11 +1,11 @@
 ---
 name: openclaw-dream
-description: Memory consolidation and self-reflection system for OpenClaw agents. Your agent periodically dreams, reviewing sessions, organizing memories, reflecting on behavior, and waking up sharper. Not just file management, your agent learns who it is. Use when dream, memory consolidation, self-reflection, agent identity.
+description: "Your agent forgets everything between sessions. Agent Dream fixes that — nightly memory consolidation, safe pruning, and self-reflection so your agent actually remembers who it is. Inspired by Claude Code's Dream, but open-source and with real self-awareness. Use when: dream, memory consolidation, self-reflection, agent identity, memory organization, persistent memory."
 ---
 
-# OpenClaw Dream
+# Agent Dream 🌙
 
-*Not just memory management — your agent learns who it is.*
+**Your agent forgets everything between sessions. This fixes that.**
 
 ## What This Does
 
