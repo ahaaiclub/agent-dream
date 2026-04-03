@@ -71,7 +71,7 @@ We built this for agents that handle real personal data. Every safety rail matte
 | Self-reflection | ✅ | ❌ | Partial | ❌ |
 | Identity awareness | ✅ | ❌ | ❌ | ❌ |
 | Safe deletion (2-pass) | ✅ | Partial | N/A | ❌ |
-| Gate check (24h + 5 sessions) | ✅ | ❌ | Timer only | ❌ |
+| Gate check (24h + activity) | ✅ | ❌ | Timer only | ❌ |
 | Growth notifications | ✅ | ✅ | ❌ | ❌ |
 | Old memory resurface | ✅ | ❌ | ❌ | ❌ |
 | Zero-config setup | ✅ | ❌ | ❌ | N/A |
